@@ -38,8 +38,11 @@ I'm driven by curiosity, enjoy problem-solving, and believe in continuous learni
 ---
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif" width="20%" />
+  <a href="https://leetcode.com/u/amar_662/">
+    <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="120px" />
+  </a>
 </p>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
